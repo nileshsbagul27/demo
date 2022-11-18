@@ -1,5 +1,7 @@
 {
-  "data": [
+  "data": 
+	"totalCount": "200"
+	"transactionList":[
     {
       "messageId": "1",
       "messageType": "PACS002",
@@ -198,6 +200,5 @@
       "currency": "USD",
       "paymentReferenceNumber": "123112312312213"
     }
-  ],
-  "count": "200"
+  ]
 }
