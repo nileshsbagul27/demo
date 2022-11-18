@@ -30,15 +30,6 @@
         "paymentReferenceNumber": "234234234234"
       },
       {
-        "messageId": "22",
-        "messageType": "PACS002",
-        "messageStatus": "Pending",
-        "createdDateTime": "11/07/2022",
-        "amount": "10.00",
-        "currency": "EUR",
-        "paymentReferenceNumber": "13123123213"
-      },
-      {
         "messageId": "4",
         "messageType": "PACS002",
         "messageStatus": "Accepted",
@@ -199,6 +190,15 @@
         "amount": "10.00",
         "currency": "USD",
         "paymentReferenceNumber": "123112312312213"
+      },
+      {
+        "messageId": "22",
+        "messageType": "PACS002",
+        "messageStatus": "Pending",
+        "createdDateTime": "11/07/2022",
+        "amount": "10.00",
+        "currency": "EUR",
+        "paymentReferenceNumber": "13123123213"
       }
     ]
   }
