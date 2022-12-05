@@ -68,8 +68,8 @@
         "messageStatus": "Expired",
         "createdDateTime": "11/07/2022",
         "amount": "10.00",
-        "currency": "USD
-		"messageFlow": "O",
+        "currency": "USD",
+	"messageFlow": "O",
         "paymentReferenceNumber": "45345345345"
       },
       {
