@@ -19,7 +19,7 @@
         "createdDateTime": "11/07/2022",
         "amount": "10.00",
         "currency": "USD",
-        
+        "messageFlow": "I",
         "paymentReferenceNumber": "234242423"
       },
       {
