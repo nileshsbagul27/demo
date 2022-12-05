@@ -17,12 +17,24 @@
       {
         "messageId": "2",
         "messageType": "PACS002",
-        "messageStatus": "Partially Accepted",
+        "messageStatus": "00",
         "createdDateTime": "11/07/2022",
         "amount": "10.00",
         "currency": "USD",
         "messageFlow": "O",
         "paymentReferenceNumber": "234242423",
+	"payerAccountNo": "XXXXXXXXXXXX8753",
+	"payeeAccountNo": "XXXXXXXXXXXX0923"
+      },
+      {
+        "messageId": "3",
+        "messageType": "PACS002",
+        "messageStatus": "00",
+        "createdDateTime": "11/07/2022",
+        "amount": "10.00",
+        "currency": "USD",
+        "messageFlow": "I",
+        "paymentReferenceNumber": "345345345",
 	"payerAccountNo": "XXXXXXXXXXXX8753",
 	"payeeAccountNo": "XXXXXXXXXXXX0923"
       }
