@@ -11,8 +11,8 @@
         "currency": "USD",
         "messageFlow": "I",
         "paymentReferenceNumber": "43534535345",
-		"payerAccountNo": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2312",
-		"payeeAccountNo": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX3387"
+		"payerAccountNo": "XXXXXXXXXXXXXXXXX2312",
+		"payeeAccountNo": "XXXXXXXXXXXXXXXXXX3387"
       },
       {
         "messageId": "2",
@@ -23,8 +23,8 @@
         "currency": "USD",
         "messageFlow": "O",
         "paymentReferenceNumber": "234242423",
-		"payerAccountNo": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX8753",
-		"payeeAccountNo": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX0923"
+		"payerAccountNo": "XXXXXXXXXXXXXXXXX8753",
+		"payeeAccountNo": "XXXXXXXXXXXXXXXXXX0923"
       }
     ]
   }
